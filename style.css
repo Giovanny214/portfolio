@@ -1,0 +1,64 @@
+* {
+    margin: 0px;
+    font-family: Georgia, serif;
+}
+
+a {
+    color: gold;
+    padding: 1% 2%;
+}
+
+header {
+    border: red solid 3px;
+    padding: 10px;
+    background-color: blueviolet;
+    color: gold;
+}
+
+h1 {
+    background-color: gold;
+    width: 20%;
+    color: blueviolet;
+}
+
+header nav {
+    text-align: end;
+}
+
+.caption {
+    border: red solid 3px;
+    background-color: beige;
+    height: 200px;
+}
+
+.caption h2 {
+    text-align: end;
+    margin: 150px 20px 0px 0px;
+    background-color: aquamarine;
+}
+
+.aboutme , .work {
+    margin-top: 1%;
+}
+
+.aboutme {
+    border: red solid 3px; 
+    height: 300px;
+}
+
+
+.work {
+    border: red solid 3px;
+    height: 800px;
+}
+
+
+
+footer {
+    border: red solid 3px;
+    color: gold;
+    padding: 30px;
+    text-align: center;
+    background-color: blueviolet;
+    margin-top: 1%;
+}
